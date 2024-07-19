@@ -17,4 +17,4 @@ in the index.asp file.
 (D) Error finding #tips
 (E) None of these
 
-Informatics olypiad I didn't write in 2004
+Informatics olypiad I didn't write in 2004. I did biology in Class x1 and x2 and not computers programming and learnt it during Engineering.

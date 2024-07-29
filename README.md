@@ -1,5 +1,5 @@
 # PyaftertragedyX1292
-Not sure what I code these days lets see even repeating previous codes. The tragedy was 4x dose of medicene for 6 months due to maybe criminals..
+Not sure what I code these days lets see even repeating previous codes. The tragedy was reintro and 4x dose of medicene for sometime everymonth for 6 months due to maybe shady people..
 
 Just 3 basic codes print in a loop, check primes and sort..
 
